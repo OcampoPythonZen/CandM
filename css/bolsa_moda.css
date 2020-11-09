@@ -1,0 +1,14 @@
+#contenedor {
+    align-content: center;
+      display: table;
+    }
+  
+    #contenidos {
+      align-content: center;
+      display: table-row;
+    }
+    
+    #columna1, #columna2, #columna3 {
+      align-content: center;
+      display: table-cell;
+    }
